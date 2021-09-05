@@ -1,4 +1,8 @@
 # technews_archietecture
+<img src="project pics/Screenshot_1630862606.png">
+<img src="project pics/Screenshot_1630864042.png">
+<img src="project pics/Screenshot_1630864068.png">
+<img src="project pics/Screenshot_1630864096.png">
 
 A new Flutter project.
 
